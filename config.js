@@ -16,13 +16,13 @@ export default {
       antiCall: true, // reject call
       autoread: true, // auto read message
       database: "database.json", // End .json when using JSON database or use Mongo URI
-      owner: ["62xxxxxxxxxx"], // set owner number on here
+      owner: ["6288211090997"], // set owner number on here
       pairing: "",
       sessionName: "session", // for name session
       prefix: /^[°•π÷×¶∆£¢€¥®™+✓_|/~!?@#%^&.©^]/i,
-      pairingNumber: "", // Example Input : 62xxx
+      pairingNumber: "6288976129942", // Example Input : 62xxx
       pathPlugins: "plugins",
-      wm: "*Source:* https://apiruulzz.my.id"
+      wm: "©ᴍᴇʟᴠᴠ ᴅᴇᴠ'ꜱ"
    },
    
    // Function Maybee
@@ -39,12 +39,12 @@ export default {
    
    // Set pack name sticker on here
    Exif: {
-      wm: "Rulzz",
-      packId: "https://apiruulzz.my.id",
+      wm: "Melv",
+      packId: "https://chat.whatsapp.com/LjHPPZ5n5EDKIUhLJBwH58",
       packName: null,
-      packPublish: '         Rulz. - Assistant\n      ——————————————\n\nCreated on date:\n' + sekarang,
-      packEmail: "rullskeyy@gmail.com",
-      packWebsite: "https://apiruulzz.my.id",
+      packPublish: '         Melv. - Assistant\n      ——————————————\n\nCreated on date:\n' + sekarang,
+      packEmail: "rakanovantara@gmail.com",
+      packWebsite: "https://chat.whatsapp.com/LjHPPZ5n5EDKIUhLJBwH58",
       androidApp: "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro",
       iOSApp: "https://apps.apple.com/id/app/muslim-pro-al-quran-adzan/id388389451?|=id",
       emojis: [],
